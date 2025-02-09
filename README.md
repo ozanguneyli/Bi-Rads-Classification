@@ -9,7 +9,7 @@ This project contains **Mammography Images Classification Model** for **BI-RADS 
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/ozanguneyli/bi_rads_classification.git
+git clone https://github.com/ozanguneyli/Bi_Rads_Classification.git
 cd bi_rads_classification
 pip install -r requirements.txt
 ```
