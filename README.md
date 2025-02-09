@@ -2,8 +2,6 @@
 
 This project contains **Mammography Images Classification Model** for **BI-RADS categories** using deep learning with attention mechanisms.
 
-![BI-RADS Pipeline](assets/pipeline.png) <!-- Bu görseli projenize uygun şekilde ekleyin -->
-
 ## 📌 Features
 - **DICOM Preprocessing**: Cropping with YOLOv5-based breast region detection, Mask, Clahe, Dicom Windowing
 - **Advanced Architecture**: RegNet backbone + Multi-head Attention Mechanism
