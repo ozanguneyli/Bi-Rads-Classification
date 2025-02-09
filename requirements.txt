@@ -1,0 +1,24 @@
+# Core
+python>=3.8
+
+# Data processing
+pydicom
+opencv-python
+Pillow
+pandas
+numpy
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# YOLOv5
+ultralytics
+
+# Utils
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipython
+notebook
