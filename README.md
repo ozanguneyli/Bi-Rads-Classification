@@ -34,3 +34,7 @@ pip install -r requirements.txt
 ```
 
 ![Confussion Matrix](confussion_matrix.png)
+
+## License
+
+[MIT License](LICENSE)
