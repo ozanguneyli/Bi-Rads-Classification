@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## 📊 Results (Our Implementation)
 
-- **Model Evaluation Metrics**:  Bar chart comparing key performance metrics (Best val, test, F1 score)
+- **Model Evaluation Metrics**:  Bar chart comparing key performance metrics (Best val accuracy, test accuracy, F1 score)
 
 ![Evaluation Metrics](images/evaluation_metrics_plot.png)
 
