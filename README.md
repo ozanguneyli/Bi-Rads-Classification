@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## 📊 Results (Our Implementation)
 
-![Evaluation Metrics](images/evaluation_metrics.png)
+![Evaluation Metrics](images/evaluation_metrics_plot.png)
 
 ![Confussion Matrix](images/confussion_matrix.png)
 
