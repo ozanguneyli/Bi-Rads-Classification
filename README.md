@@ -27,8 +27,10 @@ pip install -r requirements.txt
 
 ## 📊 Results (Our Implementation)
 
+- **Model Evaluation Metrics**: Reflects the model’s performance in BI-RADS classification, highlighting its ability to distinguish between different breast cancer risk levels.
 ![Evaluation Metrics](images/evaluation_metrics_plot.png)
 
+- **Confusion Matrix**: Provides a detailed overview of the model’s predictions versus actual BI-RADS categories, showing how well the model differentiates between varying risk levels.
 ![Confussion Matrix](images/confussion_matrix.png)
 
 ## License
