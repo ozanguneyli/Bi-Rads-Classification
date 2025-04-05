@@ -26,14 +26,10 @@ pip install -r requirements.txt
 
 
 ## 📊 Results (Our Implementation)
-```
--Key Metrics:
--Best val Acc: 0.729282
--Test Accuracy: 0.7309
--F1 Score: 0.7298
-```
 
-![Confussion Matrix](confussion_matrix.png)
+![Evaluation Metrics](images/evaluation_metrics.png)
+
+![Confussion Matrix](images/confussion_matrix.png)
 
 ## License
 
